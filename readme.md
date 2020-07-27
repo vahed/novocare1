@@ -1,4 +1,4 @@
-Novocare Laravel application is a prototype a health care system to enables the doctors and patients to records and update their data in Mysql database. The features include:
+Novocare Laravel application is a prototype of a health care system enabling the GP employees and patients to records and to update their data in Mysql database tables. The features include:
 1. Login and Register
 2. Filter user patients and GP staff
 3. Reset password
